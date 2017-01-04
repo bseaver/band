@@ -1,0 +1,17 @@
+img {
+  width: 30%;
+}
+
+p {
+  font-size: 20px;
+}
+
+.sidebar {
+  float: right;
+  margin-right: 2%;
+}
+
+.images {
+  margin-left: 2%;
+  float: left;
+}
