@@ -8,7 +8,6 @@ p {
 
 .sidebar {
   float: right;
-  margin-right: 2%;
   border: 3px solid midnightblue;
   padding-top: 20px;
   padding-left: 20px;
@@ -20,4 +19,11 @@ p {
 .images {
   margin-left: 2%;
   float: left;
+  padding: 30px;
+
+}
+
+body {
+  background-color: lightgrey;
+  margin-left: 2%;
 }
